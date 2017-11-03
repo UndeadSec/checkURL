@@ -1,13 +1,14 @@
 **checkURL** Detects evil url using IDN Homograph Attack
 ===================
 
-----------
-Clone Project
-----------
+--------------
+> **Install:**
+--------------
 
-```
-git clone https://github.com/UndeadSec/checkURL.git
-```
+> - #git clone https://github.com/UndeadSec/checkURL.git
+> - #cd checkURL
+> - #python checkURL.py
+
 ----------
 Usage
 ----------
