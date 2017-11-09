@@ -1,20 +1,25 @@
-**checkURL** Detects evil url using IDN Homograph Attack
-===================
+<h1 align="center">CheckURL</h1>
+<p align="center">
+  Detect evil urls that uses IDN Homograph Attack.
+</p>
 
---------------
-> **Install:**
---------------
+## VIDEO DEMO
+<p align="center">
+<a href="https://youtu.be/joQxGtuyfZU">
+  <img src="https://raw.githubusercontent.com/UndeadSec/checkURL/master/video.png" />
+</a></p>
 
-> - #git clone https://github.com/UndeadSec/checkURL.git
-> - #cd checkURL
-> - #python checkURL.py
+### CLONE
+```
+# git clone https://github.com/UndeadSec/checkURL.git
+```
 
-----------
-Usage
-----------
-
+### RUNNING
 ```
 # cd checkURL
+```
+
+```
 # python3 checkURL.py --help
 usage: checkURL.py [-h] [--url URL | --url-list URL_list] [--check-url]
 
@@ -34,17 +39,12 @@ Examples:
 
 Telegram: https://t.me/UndeadSec
 ```
-----------
-Requirements
-----------
+### PREREQUISITES
 
-* python3
+* python 3.x 
 
+## TESTED ON
+[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
 
-----------
-Screenshot
-----------
-
-![Shot](https://github.com/UndeadSec/checkURL/blob/master/screenshot.png)
-
-
+### SCREENSHOT
+![Shot](https://github.com/UndeadSec/checkURL/blob/master/sc.png)
