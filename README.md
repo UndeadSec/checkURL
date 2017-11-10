@@ -47,4 +47,4 @@ Telegram: https://t.me/UndeadSec
 [![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/checkURL/blob/master/sc.png)
+![Shot](https://github.com/UndeadSec/checkURL/blob/master/screenshot.png)
