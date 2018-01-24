@@ -3,6 +3,12 @@
   Detect evil urls that uses IDN Homograph Attack.
 </p>
 
+### MAINTAINERS
+* **Vandré Augusto** | 
+Twitter: <a href="https://twitter.com/dr1nKoRdi3">@dr1nKoRdi3</a>
+Github: <a href="https://github.com/dr1nk0rdi3">@dr1nKoRdi3</a>
+
+
 ## VIDEO DEMO
 <p align="center">
 <a href="https://youtu.be/joQxGtuyfZU">
